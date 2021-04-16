@@ -2,8 +2,8 @@ title:              Clean Blog
 email:              ywroh0619@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "./"
-url:                "https://rohyounwoo.github.io/clean_blog/"
+baseurl:            "/clean_blog"
+url:                "https://rohyounwoo.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
